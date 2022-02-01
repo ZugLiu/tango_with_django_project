@@ -1,0 +1,30 @@
+[33mcommit 1eff9dff1464eee0fc42ab799586a7a36735a1e2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 81ecb0b 37d58e9
+Author: ZZZZUG <2681491l@student.gla.ac.uk>
+Date:   Sat Jan 29 21:14:10 2022 +0000
+
+    Merge branch 'master' of https://github.com/ZugLiu/tango_with_django_project
+
+[33mcommit 81ecb0beefc3b69c337b36719a5a16a31e4e49e1[m
+Author: ZZZZUG <2681491l@student.gla.ac.uk>
+Date:   Sat Jan 29 21:09:36 2022 +0000
+
+    Chapter 3
+
+[33mcommit 37d58e9f7702b157e770d55e9e3221fbccb55cdc[m
+Author: Zug <74390104+ZugLiu@users.noreply.github.com>
+Date:   Sat Jan 29 17:37:48 2022 +0000
+
+    Update README.md
+
+[33mcommit b368852ea8c64266d2a912d6ebe8d8c37ba994d4[m
+Author: Zug <74390104+ZugLiu@users.noreply.github.com>
+Date:   Sat Jan 29 17:34:54 2022 +0000
+
+    Create README.md
+
+[33mcommit 3e2bfb968e502e0b1ea00b1fc9bbc0542e90adc1[m
+Author: ZZZZUG <2681491l@student.gla.ac.uk>
+Date:   Thu Jan 20 16:05:00 2022 +0000
+
+    first commit
