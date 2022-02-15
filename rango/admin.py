@@ -5,7 +5,7 @@ from rango.models import Category, Page
 # create an admin class to define what of the model to display
 class PageAdmin(admin.ModelAdmin):
     list_display = ('title', 'category', 'url')
-    # prepopulated_fields = {'slug':('title',)}
+    
 
 class CategoryAdmin(admin.ModelAdmin):
     prepopulated_fields = {'slug':('name',)}
